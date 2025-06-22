@@ -1,3 +1,4 @@
-# Meu primeiro código!
+# Programa sobre o Mercadão do Zé
 
-Primeiro projeto no GitHub Faculdade
+Projeto desenvolvido pelos alunos Andrei e André, colocando em práticas os conteúdos aprendidos em sala de aula e aprimorando o
+código ao longo das etapas.
